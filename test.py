@@ -10,4 +10,4 @@ def nums(*args):
 
     letters(*args)
 
-nums('air', 'water', 'earth')
+nums('air', 'water', 'earth', 'fire')
